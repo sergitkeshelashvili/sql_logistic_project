@@ -16,11 +16,11 @@ The repository contains the following files:
 
 🚀 Features
 
-Star Schema Design: Organizes data into dimension and fact tables for efficient querying.
-Data Integrity: Enforces constraints to maintain consistency across tables.
-Performance Optimization: Uses indexes to improve query execution speed.
-Comprehensive Analysis: Includes queries for customer segmentation, shipment performance, route profitability, and seasonal demand forecasting.
-Scalable Data: Populates tables with randomized data for testing and analysis.
+🛩 Star Schema Design: Organizes data into dimension and fact tables for efficient querying
+🛩 Data Integrity: Enforces constraints to maintain consistency across tables
+🛩 Performance Optimization: Uses indexes to improve query execution speed
+🛩 Comprehensive Analysis: Includes queries for customer segmentation, shipment performance, route profitability, and seasonal demand forecasting
+🛩 Scalable Data: Populates tables with randomized data for testing and analysis
 
 📈 Example Queries
 
