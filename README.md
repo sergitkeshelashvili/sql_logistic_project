@@ -24,11 +24,11 @@ Scalable Data: Populates tables with randomized data for testing and analysis.
 
 📈 Example Queries
 
-Count customers and suppliers by city/region.
-Analyze vehicle performance and maintenance metrics.
-Evaluate driver performance based on successful shipments.
-Forecast seasonal demand and calculate month-over-month sales changes.
-Optimize routes by analyzing cost per kilometer and profitability.
+ 📊 Count customers and suppliers by city/region.
+ 📊 Analyze vehicle performance and maintenance metrics.
+ 📊 Evaluate driver performance based on successful shipments.
+ 📊 Forecast seasonal demand and calculate month-over-month sales changes.
+ 📊 Optimize routes by analyzing cost per kilometer and profitability.
 
 
 📚 Technologies Used
