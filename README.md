@@ -1,6 +1,7 @@
-# SQL Logistics Project 📦
+# SQL Logistics Project 📦🚀
 
 📖 Overview
+
 The SQL Logistics Project is a comprehensive database solution designed to manage and analyze logistics operations. It implements a star schema to efficiently store and query data related to customers, products, vehicles, drivers, warehouses, routes, suppliers, orders, employees, and shipments. The project includes SQL scripts for database initialization, constraints, indexing, and data analysis, along with an Entity-Relationship Diagram (ERD) for visualization.
 
 🗂️ Project Structure
@@ -32,7 +33,7 @@ Optimize routes by analyzing cost per kilometer and profitability.
 
 📚 Technologies Used
 
-PostgreSQL: For database creation and management.
-SQL: For schema design, data population, and analysis.
-Star Schema: For efficient data organization and querying.
+🪙 PostgreSQL: For database creation and management.
+🪙 SQL: For schema design, data population, and analysis.
+🪙 Star Schema: For efficient data organization and querying.
 
