@@ -5,13 +5,22 @@
 The SQL Logistics Project is a comprehensive database solution designed to manage and analyze logistics operations. It implements a star schema to efficiently store and query data related to customers, products, vehicles, drivers, warehouses, routes, suppliers, orders, employees, and shipments. The project includes SQL scripts for database initialization, constraints, indexing, and data analysis, along with an Entity-Relationship Diagram (ERD) for visualization.
 
 🗂️ Project Structure
-The repository contains the following files:
+
+The repository is organized into the following folders and files:
+
+📁 docs:
+
+🖼️ star_schema_ERD.png: Visual representation of the star schema database structure.
+
+📁 init_database_and_analytics:
 
 📄 init_database.sql: Creates the database, tables, and populates them with random data for testing.
-🔒 slq_constraints.sql: Defines constraints to ensure data integrity.
-⚡ slq_indexes_and_performance_optimization.sql: Implements indexes to optimize query performance.
 📊 sql_logistic_data_analysis.sql: Contains analytical queries for insights into logistics operations (e.g., shipment performance, sales trends, route profitability).
-🖼️ star_schema_ERD.png: Visual representation of the star schema database structure.
+
+📁 sql_optimization_constraints:
+
+🔒 sql_constraints.sql: Defines constraints to ensure data integrity.
+⚡ sql_indexes_and_performance_optimization.sql: Implements indexes to optimize query performance.
 
 
 🚀 Features
